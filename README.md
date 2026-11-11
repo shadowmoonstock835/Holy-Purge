@@ -203,4 +203,4 @@ This repository serves as the official landing page for Holy Purge. The software
 **Get the most recent version of Holy Purge today!**
 
 ---
-**Last updated:** 2026-11-11 08:44:35 UTC
+**Last updated:** 2026-11-11 16:50:07 UTC
